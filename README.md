@@ -1,9 +1,11 @@
 # webcrawler  
 React.js WebApp to crawl a given website and show links within the domain  
   
-to start use (ignore error message)  
-> yarn start  
+## Usage 
+yarn start  
 or  
-> npm start  
+npm start  
+  
+(ignore error message during startup)  
   
 browse http://localhost:3000
